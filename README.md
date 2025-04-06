@@ -3,7 +3,6 @@
 This is a PowerShell-based system repair and optimization tool, developed with love by VampireLore.  
 It includes utilities for network, system tweaks, app installs, malware scanning, and more — all accessible through a user-friendly graphical interface.
 
-a short link to this location, if anyone wanted to send this to others. bit.ly/425Hkp2
 ---
 
 
